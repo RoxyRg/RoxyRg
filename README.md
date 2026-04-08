@@ -1,7 +1,7 @@
 # Hola, soy Alan Méndez 👋
 
 **Desarrollador de Software & Tecnologías de la Información**  
-📍 Moroleón, Guanajuato, México · 🌐 Disponible para trabajo remoto
+📍 Dolores Hidalgo, Guanajuato, México · 🌐 Disponible para trabajo remoto
 
 ---
 
