@@ -28,7 +28,7 @@ desde APIs REST hasta sistemas completos con panel de control.
 | Proyecto | Descripción | Demo |
 |---------|-------------|------|
 | NEXUS Studio | Landing page de agencia de desarrollo | [🔗 Ver en vivo](https://roxyRg.github.io/nexus-landing) |
-| VOLT Tienda | E-commerce con carrito funcional | [🔗 Ver en vivo](https://roxyRg.github.io/volt-tienda) |
+| VOLT Tienda | E-commerce con carrito funcional | [🔗 Ver en vivo](https://roxyrg.github.io/volt-tienda/) |
 | POSmart | Sistema punto de venta completo | [🔗 Ver en vivo](https://roxyRg.github.io/posmart-pos) |
 | NexusAdmin | Dashboard de administración en React | [🔗 Ver en vivo](https://roxyRg.github.io/nexus-admin-react) |
 
